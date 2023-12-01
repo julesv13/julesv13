@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello!
+I'm Jules and currently a student studying technical art and rendering. Additionally, I work as co-developer on Nyack, a computer role-playing game.
+
+### Present
+- Shader Fundamentals
+- Custom Scriptable Render Pipeline
+### Future
+- Particle Simulation
+- Flow Effects
+- Complex Materials
 
 <!--
 **julesv13/julesv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
